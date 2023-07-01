@@ -1,6 +1,6 @@
-# MusicLibraryManagement
-Author: Phạm Nguyễn Minh Thuận
-EMVN: Fresher Software Developer
+# MusicLibraryManagement<br/>
+Author: Phạm Nguyễn Minh Thuận <br/>
+EMVN: Fresher Software Developer<br/>
 
 Intruction Install:
   1. git clone https://github.com/mthuandkp/MusicLibraryManagement.git
