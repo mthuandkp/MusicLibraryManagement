@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1658490905",
+    "userId": "1658490906",
+    "title": "Happy New Year",
+    "artist": "ABBA",
+    "album": "Super Trouper",
+    "genre": "Seasonal",
+    "releaseYear": 1980,
+    "duration": 4.28,
+    "createdAt": {
+      "date": {
+        "year": 2023,
+        "month": 6,
+        "day": 30
+      },
+      "time": {
+        "hour": 13,
+        "minute": 50,
+        "second": 57,
+        "nano": 679000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2023,
+        "month": 6,
+        "day": 30
+      },
+      "time": {
+        "hour": 13,
+        "minute": 50,
+        "second": 57,
+        "nano": 690000000
+      }
+    }
+  },
+  {
+    "id": "1658190905",
+    "userId": "1681238891",
+    "title": "Hello Vietnam",
+    "artist": "Quynh Anh",
+    "album": "Vietnam music",
+    "genre": "Country",
+    "releaseYear": 2005,
+    "duration": 3.29,
+    "createdAt": {
+      "date": {
+        "year": 2023,
+        "month": 6,
+        "day": 30
+      },
+      "time": {
+        "hour": 13,
+        "minute": 50,
+        "second": 57,
+        "nano": 690000000
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2023,
+        "month": 6,
+        "day": 30
+      },
+      "time": {
+        "hour": 13,
+        "minute": 50,
+        "second": 57,
+        "nano": 690000000
+      }
+    }
+  }
+]
